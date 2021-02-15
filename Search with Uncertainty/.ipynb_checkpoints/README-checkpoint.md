@@ -1,9 +1,10 @@
 <!-- #region -->
-# Intelligent Agents
+# Search with Uncertainty
 
 ## Contents
 
-* Assignment: [Reflex Agents for the Vacuum-cleaner World](simple_randomized_agent.ipynb)
+* Example: [Solving Tic-Tac-Toe with And-Or-Search](tictactoe_and_or_search.ipynb.ipynb)
+
 
 
 ## License
