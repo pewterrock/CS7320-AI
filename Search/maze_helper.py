@@ -82,7 +82,6 @@ def find_pos(maze, what = "S"):
     Returns:
     a tupple (x, y) for the found position.
     """
-    
     pos = np.where(maze == what)
     return(tuple([pos[0][0], pos[1][0]]))
 
